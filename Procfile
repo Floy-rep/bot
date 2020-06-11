@@ -1,1 +1,1 @@
-web: node Food.py
+web: python Food.py
